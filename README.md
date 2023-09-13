@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Undergrad Student(DTU)</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2020/10/web-development.gif">
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently making project using **React Js**
 
 - 📫 How to reach me **omdharra4104@gmail.com**
 
